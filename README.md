@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevJoaoLorenzo
 - 👀 I’m interested in work with Back-End development
-- 🌱 I’m currently learning Java and C
+- 🌱 I’m currently learning C, Python and MySQL
 - 📫 How to reach me: joao777lorenzo@gmail.com
 
 <!---
