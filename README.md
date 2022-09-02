@@ -5,7 +5,7 @@
 - 📖 Estudando Java POO e C, também possuo conhecimento básicos de html e css.
 - 📫 Contate-me no email: joao777lorenzo@gmail.com
 - ⚡ Aberto a oportunidades de emprego!
-- 💻 Prefência em back-end!
+- 💻 Preferência em back-end!
 - 💻 MacOS
 
 ##
