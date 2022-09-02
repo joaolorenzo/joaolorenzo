@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @DevJoaoLorenzo
-- 👀 I’m interested in work with Back-End development
-- 🌱 I’m currently learning C, Python and MySQL
-- 📫 How to reach me: joao777lorenzo@gmail.com
+## Olá! Sou o João Lorenzo, e estou graduando em Ciência da Computação!
 
-<!---
-DevJoaoLorenzo/DevJoaoLorenzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3>Competências:</h3>
+
+- 📖 Estudando Java POO e C, também possuo conhecimento básicos de html e css.
+- 📫 Contate-me no email: joao777lorenzo@gmail.com
+- ⚡ Aberto a oportunidades de emprego!
+- 💻 Prefência em back-end!
+- 💻 MacOS
+
+##
