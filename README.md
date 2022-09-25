@@ -9,4 +9,6 @@
 - 💻 MacOS
 
 ##
-![Snake animation](https://github.com/seu-usuário-aqui/DevJoaoLorenzo/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
