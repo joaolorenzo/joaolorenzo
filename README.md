@@ -2,7 +2,7 @@
 
 <h3>Competências:</h3>
 
-- 📖 Estudando Java POO e C, também possuo conhecimento básicos de html e css.
+- 📖 Estudando C# - .NET, também possuo conhecimento básicos de html e css.
 - 📫 Contate-me no email: joao777lorenzo@gmail.com
 - ⚡ Aberto a oportunidades de emprego!
 - 💻 Preferência em back-end!
