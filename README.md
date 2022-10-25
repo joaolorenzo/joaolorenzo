@@ -5,8 +5,6 @@
 - 📖 Estudando C# - .NET, também possuo conhecimento básicos de html e css.
 - 📫 Contate-me no email: joao777lorenzo@gmail.com
 - ⚡ Aberto a oportunidades de emprego!
-- 💻 Preferência em back-end!
-- 💻 MacOS
 
 ##
 <a href="https://www.linkedin.com/in/devjoaolorenzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
