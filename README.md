@@ -2,7 +2,7 @@
 
 <h3>Competências:</h3>
 
-- 📖 Estudando C# - .NET, também possuo conhecimento básicos de html e css.
+- 📖 Estudando e trabalhando com C# - .NET e JavaScript.
 - 📫 Contate-me no email: joao777lorenzo@gmail.com
 
 
