@@ -1,9 +1,9 @@
-## Olá! Sou o João Lorenzo, e estou graduando em Ciência da Computação!
+## Hello! I'm João Lorenzo, and I'm a web developer!
 
-<h3>Competências:</h3>
+<h3>Skills:</h3>
 
-- 📖 Estudando e trabalhando com C# - .NET e JavaScript.
-- 📫 Contate-me no email: joao777lorenzo@gmail.com
+📖 Proficient in C# - .NET and JavaScript.
+📫 You can contact me via email: joao777lorenzo@gmail.com
 
 
 ##
