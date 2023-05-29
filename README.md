@@ -3,6 +3,7 @@
 <h3>Skills:</h3>
 
 📖 Proficient in C# - .NET and JavaScript.
+
 📫 You can contact me via email: joao777lorenzo@gmail.com
 
 
