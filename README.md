@@ -8,7 +8,7 @@
 
 
 ##
-<a href="https://www.linkedin.com/in/devjoaolorenzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joaolorenz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ##
 <div align="center">
   <img align="center" alt="Joao-C-Sharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -20,4 +20,4 @@
 
 ##
 
-![Snake animation](https://github.com/devjoaolorenzo/devjoaolorenzo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joaolorenzo/joaolorenzo/blob/output/github-contribution-grid-snake.svg)
