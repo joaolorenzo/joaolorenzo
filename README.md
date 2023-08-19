@@ -9,9 +9,9 @@
 - Prezo por clareza e eficiência no código.
 
 🛠 **Ferramentas & Tecnologias:**
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) - Uso diário para controle de versão.
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) - Desenvolvimento de APIs.
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) - Enriquecendo UI/UX.
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) - Uso diário para controle de versão. 
 
 🌱 **Aprendendo sempre!**
 - Aberto a trocar experiências e colaborar em projetos.
