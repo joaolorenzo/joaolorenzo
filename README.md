@@ -18,6 +18,3 @@
 
 📬 **Contato:**
 - Sinta-se à vontade para se conectar ou enviar uma mensagem.
-
-
-![Snake animation](https://github.com/joaolorenzo/joaolorenzo/blob/output/github-contribution-grid-snake.svg)
