@@ -1,6 +1,6 @@
 # João Lorenzo
 
-👋 Hi, I'm João Lorenzo - Full Stack Developer & Tech Lead at Growth 8.
+👋 Hi, I'm João Lorenzo - Full Stack Developer at Pyp System.
 
 ## What I Do
 
