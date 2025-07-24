@@ -1,10 +1,10 @@
 # João Lorenzo
 
-👋 Hi, I'm João Lorenzo, Founder and Engineer at Pyp System.
+👋 Hi. I'm João Lorenzo, founder and engineer at Pyp System.
 
 ## What I Do
 
-- **Tech Stack:** Nest.js, Vue.js, Nuxt.js, PostgreSQL, AWS
+- **Tech Stack:** Nest.js, Vue.js, Nuxt.js, PostgreSQL, AWS, Python, LangChain and Vector Databases.
 - **Focus:** Building scalable and efficient web applications.
 
 ## Skills
