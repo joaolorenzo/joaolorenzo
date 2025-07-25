@@ -18,4 +18,4 @@
 ## Let's Connect
 
 - 📧 Email: joao.lorenzo@pypsystem.com.com
-- [X]([https://www.linkedin.com/in/joaolorenz/](https://x.com/home))
+- [X](https://x.com/joaolorenzo)
