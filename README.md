@@ -5,7 +5,7 @@ Full-stack & AI engineer based in Brazil (UTC-3). I design, build and run produc
 Founder & Lead Engineer at [Pyp System](https://pypsystem.com), leading a team of 5 that builds production platforms for clients and joint ventures.
 
 **Recent work**
-- An omnichannel AI platform (WhatsApp, Telegram, web chat): multi-tenant NestJS + PostgreSQL backend, a Python/LangGraph agent engine with agentic RAG, MCP tool calling and multi-provider LLM fallback, and a Go WhatsApp gateway
+- An omnichannel AI platform (WhatsApp, Instagram, Telegram, web chat): multi-tenant NestJS + PostgreSQL backend, a Python/LangGraph agent engine with agentic RAG, MCP tool calling and multi-provider LLM fallback, and a Go WhatsApp gateway
 - A travel marketplace with split payments and iOS/Android apps, and a fractional real-estate ownership platform
 - Zero-downtime blue-green deploys (Docker, GitHub Actions, nginx) across every product
 
