@@ -13,4 +13,4 @@ Founder & Lead Engineer at [Pyp System](https://pypsystem.com), leading a team o
 
 Most of my work lives in private client and joint-venture repositories.
 
-[LinkedIn](https://www.linkedin.com/in/joaolorenz) · [Email](mailto:joao777lorenzo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/joaolorenz) · [Email](mailto:joaolorenzosds@gmail.com)
