@@ -1,21 +1,16 @@
 # João Lorenzo
 
-👋 Hi. I'm João Lorenzo, founder and engineer at Pyp System.
+Full-stack & AI engineer based in Brazil (UTC-3). I design, build and run production software end to end: data model, APIs, frontend, deploy pipeline and, more and more, the LLM agents and RAG inside the product.
 
-## What I Do
+Founder & Lead Engineer at [Pyp System](https://pypsystem.com), leading a team of 5 that builds production platforms for clients and joint ventures.
 
-- **Tech Stack:** Nest.js, Vue.js, Nuxt.js, PostgreSQL, AWS, Python, LangChain and Vector Databases.
-- **Focus:** Building scalable and efficient web applications.
+**Recent work**
+- An omnichannel AI platform (WhatsApp, Telegram, web chat): multi-tenant NestJS + PostgreSQL backend, a Python/LangGraph agent engine with agentic RAG, MCP tool calling and multi-provider LLM fallback, and a Go WhatsApp gateway
+- A travel marketplace with split payments and iOS/Android apps, and a fractional real-estate ownership platform
+- Zero-downtime blue-green deploys (Docker, GitHub Actions, nginx) across every product
 
-## Skills
+**Stack:** TypeScript · NestJS · Vue/Nuxt · React/Next.js · Python (FastAPI, LangGraph) · Go · PostgreSQL · Redis · Qdrant · Docker · GitHub Actions
 
-- ![](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-- ![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-- ![](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
-- ![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-- ![](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+Most of my work lives in private client and joint-venture repositories.
 
-## Let's Connect
-
-- 📧 Email: joao.lorenzo@pypsystem.com.com
-- [X](https://x.com/joaolorenzo)
+[LinkedIn](https://www.linkedin.com/in/joaolorenz) · [Email](mailto:joao777lorenzo@gmail.com)
